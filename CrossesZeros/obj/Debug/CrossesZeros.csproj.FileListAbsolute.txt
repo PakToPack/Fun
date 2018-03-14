@@ -1,0 +1,7 @@
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\bin\Debug\CrossesZeros.exe.config
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\bin\Debug\CrossesZeros.exe
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\bin\Debug\CrossesZeros.pdb
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\obj\Debug\CrossesZeros.csproj.CoreCompileInputs.cache
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\obj\Debug\CrossesZeros.exe
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\obj\Debug\CrossesZeros.pdb
+C:\Users\Yawgen\source\repos\2s_l1\CrossesZeros\obj\Debug\CrossesZeros.csprojResolveAssemblyReference.cache
